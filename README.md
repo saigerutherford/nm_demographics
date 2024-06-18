@@ -1,6 +1,6 @@
 # nm_demographics
 
-Analysis scripts and figures for our paper measuring racial bias in normative models of brain structure. 
+Analysis scripts and figures for our paper (link to be added post peer review) measuring racial bias in normative models of brain structure. 
 
 
 ### To which reference class do you belong? <br> Measuring racial fairness of reference classes with normative modeling.
